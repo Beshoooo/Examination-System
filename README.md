@@ -1,24 +1,24 @@
-# Examination-Sytyem
+# Examination-System
 
 ## Content
 
 * Project with angular
-* Fake npm live server with json file
+* Fake npm live server with JSON file
 
-### Built with
+## Built with
 
 * Angular 2
 
-### Features
+## Features
 
 - Admin can put Exams and assign questions.
-- Student can register, login with account, take his exam and know his score after finish exam.
-- Exam coded under pagination in angular and score computed after student submit his answers.
+- Students can register, login with accounts, take their exam, and know their score after finishing the exam.
+- Exam coded under pagination in angular and score computed after the student submits answers.
 
-### Admin account
+## Admin account
 
-- The admin username is : admin
-- The password is : admin123 
+- The admin username is: admin
+- The password is: admin123 
 
 ## Author
 
