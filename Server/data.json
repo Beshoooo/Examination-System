@@ -1,0 +1,182 @@
+{
+  "exams": [
+    {
+      "id": 1,
+      "exam_name": "History",
+      "questions": [
+        {
+          "num": 1,
+          "question": "Who was the first president of the United States?",
+          "options": [
+            "George Washington",
+            "Thomas Jefferson",
+            "Abraham Lincoln",
+            "John Adams"
+          ],
+          "answer": "George Washington"
+        },
+        {
+          "num": 2,
+          "question": "What was the first civilization in the world?",
+          "options": [
+            "Sumer",
+            "Egypt",
+            "Indus Valley",
+            "China"
+          ],
+          "answer": "Sumer"
+        },
+        {
+          "num": 3,
+          "question": "What was the name of the first satellite launched into space?",
+          "options": [
+            "Sputnik 1",
+            "Explorer 1",
+            "Vanguard 1",
+            "Telstar 1"
+          ],
+          "answer": "Sputnik 1"
+        },
+        {
+          "num": 4,
+          "question": "What year did World War II end?",
+          "options": [
+            "1945",
+            "1939",
+            "1941",
+            "1943"
+          ],
+          "answer": "1945"
+        },
+        {
+          "num": 5,
+          "question": "What was the name of the first person to sail around the world?",
+          "options": [
+            "Ferdinand Magellan",
+            "Christopher Columbus",
+            "Vasco da Gama",
+            "James Cook"
+          ],
+          "answer": "Ferdinand Magellan"
+        },
+        {
+          "num": 6,
+          "question": "Eu deserunt rem eu q",
+          "options": [
+            "Magnam magnam aut no",
+            "Commodo sed sint qui",
+            "Laborum quasi aut au",
+            "Incidunt aut offici"
+          ],
+          "answer": "Commodo sed sint qui"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "exam_name": "Science",
+      "questions": [
+        {
+          "num": 1,
+          "question": "What is the formula for water?",
+          "options": [
+            "H2O",
+            "CO2",
+            "O2",
+            "NaCl"
+          ],
+          "answer": "H2O"
+        },
+        {
+          "num": 2,
+          "question": "What is the smallest unit of matter?",
+          "options": [
+            "Atom",
+            "Molecule",
+            "Cell",
+            "Electron"
+          ],
+          "answer": "Atom"
+        },
+        {
+          "num": 3,
+          "question": "What is the largest organ in the human body?",
+          "options": [
+            "Liver",
+            "Brain",
+            "Skin",
+            "Heart"
+          ],
+          "answer": "Skin"
+        },
+        {
+          "num": 4,
+          "question": "What is the process by which plants convert sunlight into energy?",
+          "options": [
+            "Photosynthesis",
+            "Respiration",
+            "Digestion",
+            "Circulation"
+          ],
+          "answer": "Photosynthesis"
+        },
+        {
+          "num": 5,
+          "question": "What is the speed of light?",
+          "options": [
+            "299,792,458 meters per second",
+            "186,000 miles per second",
+            "300,000 kilometers per second",
+            "All of the above"
+          ],
+          "answer": "299,792,458 meters per second"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "firstName": "admin",
+      "lastName": "admin",
+      "userName": "admin",
+      "password": "admin123",
+      "id": 0
+    },
+    {
+      "firstName": "Beshoy ",
+      "lastName": "Akram",
+      "userName": "beshoyakram",
+      "password": "123456789",
+      "id": 2,
+      "exam_name": "Science",
+      "grade": "20"
+    },
+    {
+      "firstName": "Mohamed",
+      "lastName": "Azazi",
+      "userName": "AzaziMohamed12",
+      "password": "123456789",
+      "id": 3
+    },
+    {
+      "firstName": "Brooke",
+      "lastName": "Vaughn",
+      "userName": "BrookeVaughn",
+      "password": "A123456",
+      "Repassword": "A123456",
+      "id": 4,
+      "exam_name": "Science",
+      "grade": "20"
+    },
+    {
+      "firstName": "Jennifer",
+      "lastName": "Parks",
+      "userName": "JenniferParks",
+      "password": "A123456",
+      "Repassword": "A123456",
+      "id": 5,
+      "exam_name": "History",
+      "grade": "30"
+    }
+  ]
+}
